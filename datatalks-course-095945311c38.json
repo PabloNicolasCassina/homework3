@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "datatalks-course",
+  "private_key_id": "095945311c384b776603156cd1a61c4f8d99c342",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCmQ7fhKdz933Z1\nBTGftf/sU6+fSUflGq8QPx0dAWkZkYS0tnkBxQMRH9jocmQj6cby0syq8QGJ7dx1\nuudLlUisSnbIs2YfartH6oMWNftk6LmCr2gRQ9V++qLtKXfraV8PNbvt6T9iFvhJ\nQUpDvaaIb8FD/Z1fqD7aaei7cwtR95+NxJahdfpEzqiD7NIfdTkxMOa4pSw/5R30\nuP0wQuBH/8MBmpgPiTdSC0HLQOALL6MC6QxURU9NYdfdXFkZOQ1sKdc//rtCwoVr\n7M38pIfqBnfjm+gUpXGggK1+Q0k73nBkOk9gueayVJQM5sYpFyBQlM4n67tIim/+\nbf2todg3AgMBAAECggEADD7W51euJek+8BMgBVt3YWsFIiNYubgo5kvtCNVb7ceo\nxqcygLMHbPaeWE8QhA/0Q1nLkYLVnQMupmHL0OZ0/JzcDx/IvjieBDJyptX2ptx4\nc/Zs9j87lVzAAjKjLpdLVTNHx5fTFMDiAYHfBoqMc5EI4sk7ktoxODnuVlv8nJ6U\no4nfs924MHgovgI/hrx6H8sNr1vSlyZpRy3RZKbujp+1ccot9PtXQhTIc66RRmjj\nGXZKLpMt5I9ofypsXC2E7r3iFV+k/defstJ0BjsJOveRB+IRFglTyzCcduaMTaxT\nZr7WFmqHXuMMC4rufkkS1erAT4A3/AzvoL+EVQtK9QKBgQDddXcDxNFovbQfBnIN\nG1XcOKYZTlUg7czqqwyDbpizTfQ1CzftlvlcVjDsU+wOfYI9JLrxeYNYVXQ/S1mF\nbbTyEiIAtCJYN8eGpNyVIA8APmT8SoYIAZtZA8VBhbb1c63Dx7gLymAe5yWCgiyp\nkJb0g0k9rjHD5QJCpx0DOyuaHQKBgQDAMmxJcjg/IkMbnYy4gA+DNroxJZpgyDvo\nI32vOB97ak9eCzIfxWM/Xna/IFCEGmkso+qJg6SnnNbLw8FH4I8tRev3t1JCc9QC\nz67B4+ioj9vt9Pm24H/6wqrW7YrXG272Sx67Ry/iQTQ8AIFgx94sJ/B6rD4StMee\nDWJVs94LYwKBgD7SVpukFn9u6QywCGR9b6LUExI0rWN08d9T/G3ATuL2ZyMw9oGY\nhU5TSPeRavJFWk+7/qgHf2Hsg9h8qH14PI8645htgRyjXh9s3wISoQ7BpGYJQfI9\nenMK5ccLhnYkhZN3MVdu5kt96J8YDFFhqeDc6UbtBkL60ORVgZ5sB5dlAoGBAKEX\nIjAFLiOsgfbZfKL/owDlk/WxgM1xxtRxOtzr+2cj2dYHKEH83Yy1jm3vlczDnjeu\nQ9xynEVobZhoQM4P57GYk4kS/D16e87HZ8BXWCBAQ6QU2mBvlpUFKM/wVZiqA70n\nhWCO8BGBeVh5S/dkTlFQQH1xdK2VHGLa8PrIQWnlAoGAMWv2rtJism0RE7xKRi7X\nPotwMt9FzBF6WSPSAbc/9mL6xZku4rVkbBstw1y15mEJtUpedK9Ytlkkiq3dB93+\nFN6nPf6O8XJYbcYJ8ap2yv0Bu7ww2HuZ3dvSGIIO45zY9L7VRF2r7roobCkvBKeU\nMqU0lMbOo0M7Ziv3SfhJX3I=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mage-zoomcamp@datatalks-course.iam.gserviceaccount.com",
+  "client_id": "104991968055843508407",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mage-zoomcamp%40datatalks-course.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
